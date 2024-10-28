@@ -1,4 +1,4 @@
 # Demo
 This is my first Git Repository.
 <br>
-Author - Chhavi Sagar
+Author - Chhavi Sagar (IT)
